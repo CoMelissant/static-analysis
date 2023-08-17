@@ -1,0 +1,22 @@
+name: CC4M
+categories:
+  - linter
+tags:
+  - matlab
+license: proprietary
+types:
+  - cli
+  - gui
+homepage: >-
+  https://doc.monkeyproofsolutions.nl/code-checker-for-matlab/code-checker-for-matlab/v2.12/index.html
+description: >-
+  CC4M is a tool to easily check your MATLAB Code, Simulink Models, and Stateflow Charts against your company''s 
+  or your team''s coding standard. CC4M includes a convenient approach to easily configure and run checks. 
+  Furthermore, CC4M provides an M-Code analyzer to enable running checks on variables and functions as easy as 
+  checks on Simulink and Stateflow properties. 
+resources:
+  - title: CC4M documentation
+    url:  https://doc.monkeyproofsolutions.nl/code-checker-for-matlab/code-checker-for-matlab/v2.12/index.html
+  - title: Included MATLAB coding standards
+    url: https://doc.monkeyproofsolutions.nl/code-checker-for-matlab/
+reviews:
