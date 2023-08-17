@@ -6,7 +6,6 @@ tags:
 license: proprietary
 types:
   - cli
-  - gui
 homepage: >-
   https://doc.monkeyproofsolutions.nl/code-checker-for-matlab/code-checker-for-matlab/v2.12/index.html
 description: >-
